@@ -1,6 +1,6 @@
 # Miocene-Dust
 
-This repository contains the analysis code and data processing scripts used for the research on **The radiative effects of dust aerosols during the Middle Miocene**.
+This repository contains the analysis code and data processing scripts used for the research on **"The radiative effects of dust aerosols during the Middle Miocene"**.
 
 ## Overview
 This repository serves as supplementary material for the study: **"[Evaluating the radiative effects of dust aerosols in Middle Miocene climate simulations]"**.
