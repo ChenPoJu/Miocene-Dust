@@ -1,0 +1,5 @@
+Figure S2. Gregory plots as in Figure 6 but based on the annual mean values. 
+(a) Results from the FCM_Pi.Dust* experiments, where light pink dots denote annual means for the full 500-year period (years 1-500), 
+and dark pink dots represent annual means for the initial 30 years (years 1-30). (b) Results from the FCM_Mio.Dust* experiments, 
+with light blue dots representing annual means for the full 500-year period (years 1-500) and dark blue dots denoting annual means for first 30 years (years 1-30). 
+The dash lines are the regression lines shown in Figure 6 which are based on the decadal means between years 50-500.
