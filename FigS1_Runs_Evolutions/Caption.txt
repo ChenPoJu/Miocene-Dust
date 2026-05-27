@@ -1,0 +1,3 @@
+Figure S1. The 30-year running mean evolution of (a) global averaged surface temperature and (b) global mean net TOA radiation in the prescribed dust FCM experiments. 
+The black dash line denotes the 2000th year when FCM_Pi.DustMio and FCM_Mio.DustPi are branched. 
+The grey dash lines denote the years 2000-2500 average of the reference cases, FCM_Pi.DustPi & FCM_Mio.DustMio.
