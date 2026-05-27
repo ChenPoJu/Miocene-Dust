@@ -1,0 +1,4 @@
+Figure 4. Assessment of Miocene dust radiative effects in fSST_Mio.Dust*. 
+As in Fig. 3 but showing anomalies obtained from the fSST experiments with 
+the Miocene paleogeography and fixed Miocene SST and sea ice (fSST_Mio.Dust*: fSST_Mio.DustMio minus fSST_Mio.DustPi). 
+(f) shows the surface albedo from fSST_Mio.DustMio and negative anomalies (red line) which are less than -2%.
