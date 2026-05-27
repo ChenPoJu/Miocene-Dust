@@ -1,0 +1,7 @@
+Figure S3. Spatial patterns of Arctic sea-ice fraction anomalies. 
+Top panels display the responses of FCM_Pi.DustMio averaged over four periods (years 1–2, 1–10, 10–100, and 100–500), 
+calculated relative to the years 1900-2000 mean of the FCM_Pi.DustPi reference case (Figure S1). 
+Bottom panels show the anomalies derived from the FCM_Mio.Dust* experiments. 
+To facilitate the comparison with FCM_Pi.Dust* and analyze responses to dust changes from the Miocene to preindustrial conditions, 
+we present the anomalies as FCM_Mio.DustMio minus FCM_Mio.DustPi.
+
