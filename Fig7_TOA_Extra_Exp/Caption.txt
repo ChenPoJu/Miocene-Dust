@@ -1,0 +1,8 @@
+Figure 7. Spatial patterns of net TOA radiation anomalies. 
+Results from sensitivity experiments examining (a) Miocene paleogeographic and land surface ERF, 
+(b) doubling-CO2 ERF, and (c-d) Miocene dust ERFs. (a) shows the difference between fSST_Mio.SSTPi.DustPi and fSST_Pi.DustPi. 
+(b) displays the comparison between fSST_Pi.560CO2 and fSST_Pi.280CO2. (c-d) are identical to Figure 3a & 4a, respectively, 
+but are replotted using a common color bar with (b) to facilitate direct comparison. Notably, (b-d) share a consistent color cale,  
+which differs from the scale used in (a). The grey and black lines denote the preindustrial and Middle Miocene land outlines, respectively. 
+The global mean values (GM) are shown in top-right of each panel and correspond to the ERF values shown in Table S1. 
+The values include uncertainties which are one-standard-deviation of the interannual variability in the global mean value over the last 25 simulation years.
