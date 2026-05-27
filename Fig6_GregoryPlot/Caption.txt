@@ -1,0 +1,9 @@
+Figure 6. Feedback Parameters. Gregory plots of anomalous global mean surface temperature (ΔGMST) and 
+anomalous net TOA radiation (ΔTOA) for (a) FCM_Pi.Dust* experiments (FCM_Pi.DustMio – FCM_Pi.DustPi) and (b) FCM_Mio.Dust* experiments. 
+It is important to note that FCM_Mio.DustPi is branched from FCM_Mio.DustMio (Table 1) with the change to preindustrial dust imposed, 
+therefore FCM_Mio.DustMio would conventionally be regarded as the control simulation for calculating anomalies in the Gregory plot. 
+However, to facilitate the comparison with FCM_Pi.Dust* and the convention used throughout the manuscript, 
+we present the Gregory plot as FCM_Mio.DustMio – FCM_Mio.DustPi. Dots represent decadal means over years 50-500. 
+Stars denote the corrected ERFs (Table S1), and triangles denote the surface temperature anomalies in the last 100 years of the experiments (GM in Figures 5a & 5b). 
+Bottom panels display the spatial pattern of the regional feedback parameters based on decadal means over years 50-500 from (c) FCM_Pi.Dust* 
+and (d) FCM_Mio.Dust*. The GM of λ_r are at the right-top of each panel and correspond to the global λ values in (a) & (b).
