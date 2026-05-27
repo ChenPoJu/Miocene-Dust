@@ -1,0 +1,5 @@
+Figure 1. The spatial distribution of (a) dominant plant type, bare ground, and land ice, 
+(b) soil erodibility factor S, and (c) surface dust emission in PiCtrl (left) and MMio (right). 
+The dominant plant type shows regimes where a plant function type (PFT) has the highest percentage 
+among other possible PFTs within a grid cell (NE: Needleleaf Evergreen; BE: Broadleaf Evergreen; BD: Broadleaf Deciduous). 
+Zero values indicate grid cells dominated by bare ground, and seventeen indicate grid cells dominated by land ice.  
