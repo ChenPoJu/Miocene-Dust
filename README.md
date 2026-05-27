@@ -9,7 +9,7 @@ This repository serves as supplementary material for the study: **"[Evaluating t
 
 ## Data Availability
 Peer-Review: For the purpose of peer-review, the associated datasets and full output are accessible via the private Zenodo link:
-[Insert your Zenodo Private Link here]
+[https://zenodo.org/records/20016959?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjQ2ZTEyMWUzLTE4NmEtNDNiYS1iYzhjLTE4MzJkZGRjMzI4OCIsImRhdGEiOnt9LCJyYW5kb20iOiJlMGM0ZmExNzkyMmZiYWZjZDlmNjcxMGI2MDZkNTBlMiJ9.pH2pbiw2tEPFhT99Gfc66SHKEhuF_Ta1MRiVKmTOxbnhC9o4wZV8gQiD35CRYIMJMNCBmjdwSMvPKIFFJkhFrw]
 
 Public Release: All data and code will be made publicly available with a permanent DOI upon manuscript acceptance.
 
