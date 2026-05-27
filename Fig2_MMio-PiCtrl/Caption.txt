@@ -1,0 +1,7 @@
+Figure 2. Climate state anomalies (MMio minus PiCtrl). 
+(a) surface temperature, (b) inward net radiation at TOA, (c) total dust concentration in the atmosphere, 
+and (d) total dust deposition rate to the surface. The global mean values (GM) are shown in top-right of each panel, 
+and the percentages are the increases or decreases of MMio’s GM values comparedto the PiCtrl. 
+The black and grey lines in the panels (a-d) denote the Middle Miocene and preindustrial continental outlines, respectively. 
+The bottom panels show the changes in sea-ice fractions in (e) the north pole and (f) the south pole. 
+The grey mask denotes the Middle Miocene lands, and the black lines are the preindustrial land outlines.
