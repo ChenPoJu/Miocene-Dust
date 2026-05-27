@@ -1,0 +1,4 @@
+Figure S5. The spatial pattern of the regional feedback parameter as in Figure 6 but based on (a-b) annual means over years 1-30 and (c-d) annual means over years 50-500. 
+The global means (GM) of λ_r are at the right-top and correspond to the global λ values in Figure S2 (the slopes of regression lines derived from annual means). 
+Left panels show results from FCM_Pi.Dust*, and right panels show results from FCM_Mio.Dust*.
+
