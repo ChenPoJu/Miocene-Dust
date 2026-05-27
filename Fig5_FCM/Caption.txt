@@ -1,0 +1,10 @@
+Figure 5. Results from prescribed dust FCM experiments. 
+A comparison of FCM_Pi.DustMio minus FCM_Pi.DustPi is shown on the left (a, c), 
+and the comparison of FCM_Mio.DustMio minus FCM_Mio.DustPi is shown on the right (b, d). 
+The top panels (a-b) display the anomalous surface temperature responding to the dust forcing. 
+Their global mean (GM) are shown in top-right of each panel. 
+The polar amplification (PA) index (defined as the ratio of the polar surface temperature changes to 
+global surface temperature changes, ΔT_polar/ΔT_global) for northern or southern polar regions is shown at the right of the panels. 
+(c-d) display the anomalous net TOA radiation and GM with one-standard-deviation of the interannual variability over the last 100 simulation years. 
+(e-f) show the annual mean of averaged sea-ice fraction in the north polar region. 
+The dash line denotes the 2000th year when FCM_Pi.DustMio and FCM_Mio.DustPi are branched from.
