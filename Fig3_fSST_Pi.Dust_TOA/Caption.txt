@@ -1,0 +1,7 @@
+Figure 3. Assessment of Miocene dust radiative effects in fSST_Pi.Dust*. 
+From the fSST experiments with preindustrial geography and fixed preindustrial SST and sea ice (fSST_Pi.Dust*), 
+the comparison between runs with prescribed Miocene dust (fSST_Pi.DustMio) and prescribed preindustrial dust (fSST_Pi.DustPi) is displayed. 
+(a) displays the anomalous downward net TOA radiation, which is decomposed into the (c) clear-sky component and (e) cloud component. 
+The clear-sky component is further decomposed to (b) shortwave and (d) longwave. GM in the top-right of each panel represents 
+the global mean ± one-standard-deviation of internal variability over the last 25 simulation years. (Table 1). (f) shows the surface albedo from fSST_Pi.DustPi. 
+The red lines denote the negative anomalies (fSST_Pi.DustMio minus fSST_Pi.DustPi) which are less than -2%. 
