@@ -1,0 +1,7 @@
+Figure S9. Patterns of near-surface dust concentrations. 
+Left panels show climatological patterns from Miocene simulations with different CO2 levels 
+(e.g., 280, 560, 840 ppm). Mio280_H12 is identical to MMio (Table 1a). 
+H12 means that the Miocene run with 280ppm CO2-level is performed with the aerosol modeling approach from Heavens et al. (2012), 
+in order to distinguish Mio280_H12 from Mio280, which is performed without Heavens’ approach. 
+To isolate the relative impact of changing from preindustrial to Miocene boundary condition, the aerosol modelling approach, 
+and changing CO2-levels, the right three columns show anomalies relative to PiCtrl (Table 1a), Mio280_H12 (MMio), and Mio280, respectively.
